@@ -1,5 +1,5 @@
-# Triverse-s-FarmGuide
-Soil Tensiometer
+// Triverse-s-FarmGuide
+// Soil Tensiometer
 #define BLYNK_TEMPLATE_ID "TMPL3F4jbMfuU"
 #define BLYNK_TEMPLATE_NAME "FarmGuide"
 #define BLYNK_PRINT Serial
